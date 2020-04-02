@@ -1,2 +1,2 @@
 # IniSaya
-membuat biodata
+membuat biodata saya
